@@ -1,7 +1,6 @@
 {
   "name": "wallofshame",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "build:tailwinds": "tailwind build src/style.css -o public/style.css"
@@ -19,5 +18,6 @@
   "homepage": "https://github.com/BiosPlus/wallofshame#readme",
   "dependencies": {
     "tailwindcss": "^2.2.19"
-  }
+  },
+  "description": ""
 }
