@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "build:tailwinds": "npx tailwindcss-cli build build/css/tailwind.css -o public/css/tailwind.css",
+    "build:tailwinds": "npx tailwindcss-cli build css/tailwind.css -o build/tailwind.css",
     "dev": "vite",
     "build": "vite build"
   },
